@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+}
+.examples {
+    color: #788eff;
+}
+#wrapper {
+    background-color: #1b335d;
+    color: #c2d6eb;
+    padding: 10px;
+    width: 960px;
+    border-radius: 0px;
+}
+#header {
+    background-color: #cf2f36;
+    padding: 20px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+}
+#sidebar {
+    background-color: #2a7d8c;
+    display: inline-block;
+    padding: 20px;
+    margin-right: 15px;
+    vertical-align: top;
+}
+#content {
+    background-color: #0e1822;
+    display: inline-block;
+    padding: 20px;
+    vertical-align: top;
+    width: 671px;
+}
+#footer {
+    background-color: #5d6673;
+    padding: 20px;
+    margin-top: 15px;
+}
+div {
+    border-radius: 20px;
+}
+a {
+    color: #63dce6;
+    text-decoration: #63dce6 underline;
+}
+ul {
+    padding-left: 20px;
+}
